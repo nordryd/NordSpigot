@@ -1,0 +1,2 @@
+# NordSpigot
+Spigot playground
